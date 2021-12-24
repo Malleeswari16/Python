@@ -1,3 +1,4 @@
+#defining the dictionary using the {}
 dic1={"JS":"ATOM","CS":"VS","Python":"[pycharm,sublime]",'Java':"{'JSE':'Netbrains','JEE':'Eclipse'}"}
 
 # items() gives the value of the every element with the key in tuple
