@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
-#creating the list using the dic, list, array
 
+#creating the list using the dic, list, array
 labels=['hello','Welcome',"Goodmorning","po"]
 dic1={"day1":430,"day2":560,"day3":670}
 
