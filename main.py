@@ -1,4 +1,4 @@
-# to find the courses.
+# The student needs to find the best course for his cut-off marks 
 bio_cut = int(input("Enter the biology cut-off: "))
 eng_cut = int(input("Enter the engineering cut-off: "))
 biology = (bio_cut/200)*100
